@@ -1,64 +1,38 @@
-# Encryption digital museum
+# Encryption Digital Museum
 
-## Team members 
-Cyrus Cox <br>
-Cyarina Amatya <br>
-Chit Ko Ko <br>
+## Team Members 
+- Cyrus Cox  
+- Cyarina Amatya  
+- Chit Ko Ko  
 
 ## Topic 
-This digital museum is about encryption's types, history, and cracking.
+This digital museum explores encryption, including its types, history, and methods of cracking.  
 
-We use twine (markdown) for implementation.
+We used Twine (Markdown) for implementation.  
 
-From this digital museum, users can explore more about encryptions.
+Through this digital museum, users can learn more about encryption and its fascinating aspects.  
 
-## How to use
+## How to Use
 
-Users just need to click this link  <src> https://ccox76.github.io/CS239TwineFinal/<src>
+1. Click this link: [Digital Museum](https://ccox76.github.io/CS239TwineFinal/).  
+2. On the first page, you will find three types of encryption, each with a hyperlink to explore.  
+3. Navigate through the pages to explore as much as you like.  
+4. To return to the main menu, use the button provided on the last page.  
 
-In the first page, there will be three types of encryptions with hyperlinks users can choose for.
+## Structure Overview  
 
-Users can explore as much as they can.
+### First Page  
+- **Return to Start**: *Start*
 
-Users can come back to a first page after they done with exploring. In the last page, there is an button they can come back to main menu.
+### Second Page  
+- **Select an Encryption Type**:  
+  - Caesar Cipher  
+  - WW2 Cryptography  
+  - Modern Ciphers  
 
-## First page 
+### Third Page  
+- **Next Page**: *(Selected Encryption Type)*  
 
-Return to start: Start
-
-
-## Second page
-
-Select an encryption type:
-
-Caesar Cipher
-
-
-WW2 Cryptography
-
-
-Modern Ciphers
-
-## Third page 
-
-Next Page: ( encryption type )
-
-## Last page
-
-End Page: END 
-
-
-(loop back to first page) 
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Last Page  
+- **End Page**: *END*  
+  - Includes a button to loop back to the first page.  
